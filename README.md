@@ -1,5 +1,5 @@
 # parksensor
-Parking sensor w/ Arduino Uno
+Parking sensor w/ Arduino Uno, HC-SR04, Buzzer
 
 # Test
 
